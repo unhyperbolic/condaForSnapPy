@@ -9,6 +9,4 @@ To create and activate an environment, download `snappy-2.7.yml <https://raw.git
     conda env create -f FILE.yml --name PICK_AN_ENV_NAME
     conda activate PICK_AN_ENV_NAME
 
-Instructions how to install conda are `here <installConda/>`_.
-
-See `Conda documentation <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>`_ for more details.
+Instructions how to install conda are `here <installConda/>`_. More details are in the `conda documentation <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>`_.
