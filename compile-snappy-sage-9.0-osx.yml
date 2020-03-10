@@ -6,6 +6,9 @@
 #     pip install https://github.com/3-manifolds/PLink/archive/master.zip
 #     pip install https://github.com/3-manifolds/SnapPy/archive/master.zip
 #
+# (requires xcode command line tools which can be installed with
+#  xcode-select --install).
+#
 # The conda environment uses, in particular:
 #   * Tk 8.6.10 since it has Marc's fixes
 #   * Cython so that the user can build snappy from source
