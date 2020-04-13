@@ -1,6 +1,7 @@
 # A conda environment to compile the latest SnapPy from source
 #
-# Once the environment has been created and activated, SnapPy
+# Once the environment has been created and activated (see
+# https://github.com/unhyperbolic/condaForSnapPy), SnapPy
 # can be compiled from the latest source and installed with
 #
 #     pip install https://github.com/3-manifolds/PLink/archive/master.zip
